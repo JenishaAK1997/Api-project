@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.a1 {
+    background-color: rgb(91, 148, 233) !important;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.row div div {
+    background-color: aqua  !important;
+}
+.user-box {
+    height: 300px;
+}
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
